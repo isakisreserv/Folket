@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  color: blue;
+  font-size: 60px;
+}
+img {
+  text-align: center;
+}
+body {
+  background-color: red;
+}
+iframe {
+  width: 1280px;
+  height: 720px;
+}
